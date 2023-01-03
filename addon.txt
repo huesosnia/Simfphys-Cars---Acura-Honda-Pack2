@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	"name" "Simfphys Cars - Acura-Honda Pack"
+	"author_name" "Author Name"
+	"info" "{
+	"description": "Description",
+	"type": "vehicle",
+	"tags": [
+		"fun",
+		"realism"
+	]
+}"
+}
